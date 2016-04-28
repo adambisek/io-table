@@ -1,0 +1,10 @@
+{
+  "name": "adambisek/io-table",
+  "type": "library",
+  "version": "v1.0.0",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": { "IoTable\\": "" }
+  }
+}
